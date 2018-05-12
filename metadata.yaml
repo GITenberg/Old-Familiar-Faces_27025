@@ -1,0 +1,34 @@
+_repo: Old-Familiar-Faces_27025
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Watts-Dunton, Theodore
+    aliases:
+    - Watts-Dunton, Walter Theodore
+    - Watts, Theodore
+    birthdate: 1832
+    deathdate: 1914
+    gutenberg_agent_id: '5054'
+    url: http://www.gutenberg.org/2009/agents/5054
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_Watts-Dunton
+description: ''
+gutenberg_issued: '2008-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27025'
+  lccn: a16000566
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, English -- 19th century -- Biography'
+- !lcc 'PR'
+tableOfContents: Introduction -- George Borrow -- Dante Gabriel Rossetti -- Alfred,
+  lord Tennyson -- Christina Georgina Rossetti -- Dr. Gordon Hake -- John Leicester
+  Warren, lord de Tabley -- William Morris -- Francis Hindes Groome.
+title: Old Familiar Faces
+url: http://www.gutenberg.org/ebooks/27025
